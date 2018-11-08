@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Jeudi 8 novembre :
 
 ##Lien Heroku :
