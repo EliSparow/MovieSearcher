@@ -1,6 +1,6 @@
-#Jeudi 8 novembre :
+# Jeudi 8 novembre :
 
-##Lien Heroku :
+## Lien Heroku :
 https://movie-search-ericeira.herokuapp.com/
 
 ### Une fois pull
